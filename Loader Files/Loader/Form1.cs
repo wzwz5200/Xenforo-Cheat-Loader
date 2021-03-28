@@ -16,7 +16,7 @@ namespace Loader
 {
     public partial class Form1 : Form
     {
-        string adress = "https://drown.pw/forums/"; // ur forum link
+        string adress = "https://poggers.ro/forums/"; // ur forum link
         string secret = "6d6ye3SUkGKUC4I5b088R1w3otqHi3lyxsRT4i15hL";
         string version = "1.3.3.7";
         bool hwid;
